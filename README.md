@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React and Flutter :yum:, and joining a coding and interview mentoring program
 - 📄 Know about my experiences [https://resume.io/r/H9mntQtuk](https://resume.io/r/H9mntQtuk)
 - 🥅 2022 Goals: Kick-start my career, Contribute to Open Source projects , Get to know more interesting people :grin:
-- - :fire: Strongly interested in learning more about DevOps in the future
+- :fire: Strongly interested in learning more about DevOps in the future
 - ⚡ Fun fact: I am also a gym lover and a tech stocks investor ($UPST,$AFRM,$SOFI,$BILL,$CFLT,$ABNB,$SE)
 
 ### Connect with me:
