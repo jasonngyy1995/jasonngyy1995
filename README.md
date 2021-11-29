@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">Technology lover and Graduate Developer</h3>
 
-- I just completed the Master of Computing and Innovation at the University of Adelaide, and I am now looking for a position of Graduate Developer ! 
+- I just completed the Master of Computing and Innovation at the University of Adelaide 🇦🇺, and I am now looking for a position of Graduate Developer ! 
 - 🌱 I’m currently learning React and Flutter :yum:, and joining a coding and interview mentoring program
 - 📄 Know about my experiences [https://resume.io/r/H9mntQtuk](https://resume.io/r/H9mntQtuk)
 - :fire: Strongly interested in learning more about DevOps in the future
