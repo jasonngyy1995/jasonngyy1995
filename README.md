@@ -19,9 +19,9 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="C#" width="26px" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png" />
+<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" />
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Flutter" width="26px" src="https://i.ytimg.com/an/aAmP-WcI6dg/503422970480686737_mq.jpg?v=60ad54a1" />
