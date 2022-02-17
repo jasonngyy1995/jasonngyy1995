@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">Technology lover and Associate Software Developer</h3>
 
-- I just completed the Master of Computing and Innovation at the University of Adelaide 🇦🇺
 - 🌱 I’m currently learning React and .NET :yum:
 - 📄 Know about my experiences [https://resume.io/r/H9mntQtuk](https://resume.io/r/H9mntQtuk)
 - 🥅 2022 Goals: Keep learning, Contribute to Open Source projects , Get to know more interesting people :grin:
 - :fire: Strongly interested in learning more about DevOps in the future
-- ⚡ Fun fact: I am also a gym lover and a tech stocks investor ($UPST,$AFRM,$SOFI,$BILL,$CFLT,$ABNB,$SE)
+- ⚡ Fun fact: I am also a gym lover and a tech stocks investor ($UPST,$SOFI,$BILL,$CFLT,$ABNB,$EXPE,$NVDA)
 
 ### Connect with me:
 
