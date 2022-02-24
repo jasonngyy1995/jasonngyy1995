@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">Technology lover and Associate Software Developer</h3>
 
-- 🌱 I’m currently learning React and .NET :yum:
+- 🌱 I’m currently learning C# and .NET :yum:
 - 📄 Know about my experiences [https://resume.io/r/H9mntQtuk](https://resume.io/r/H9mntQtuk)
 - 🥅 2022 Goals: Keep learning, Contribute to Open Source projects , Get to know more interesting people :grin:
 - :fire: Strongly interested in learning more about DevOps in the future
